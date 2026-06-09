@@ -5,4 +5,7 @@ This repository contains the datasets, evaluation instruments, MATLAB FIS implem
 
 The work is motivated by the enforcement of EU AI Act (Regulation (EU) 2024/1689), which creates binding identification obligations for AI systems. The AIC framework provides a verifiable, source-code-grounded pre-audit screening instrument deployable without relying on vendor claims or documentation.
 
+Link to Google Form questionnaire for Round 2 evaluation:
+https://forms.gle/9XQdDPRvVUHobHvo7
+
 Accompanying paper submitted to International Journal of Computers Communications & Control (IJCCC).
